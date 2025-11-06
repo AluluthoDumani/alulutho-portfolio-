@@ -615,11 +615,11 @@ export default function App() {
             })}
           </nav>
 
-          <div className={`mt-8 p-4 ${darkMode ? 'bg-gradient-to-br from-blue-900/30 to-purple-900/30' : 'bg-gradient-to-br from-blue-50 to-purple-50'} rounded-lg transition-colors duration-300`}>
+          {/* <div className={`mt-8 p-4 ${darkMode ? 'bg-gradient-to-br from-blue-900/30 to-purple-900/30' : 'bg-gradient-to-br from-blue-50 to-purple-50'} rounded-lg transition-colors duration-300`}>
             <p className={`text-xs ${darkMode ? 'text-gray-400' : 'text-gray-600'} text-center`}>
               Interactive Portfolio Application v1.0
             </p>
-          </div>
+          </div> */}
         </div>
 
         {/* Main Content */}
